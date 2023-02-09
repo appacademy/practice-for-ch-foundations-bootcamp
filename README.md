@@ -1,6 +1,6 @@
 # Bootcamp
 
-<iframe src="https://player.vimeo.com/video/290805452" width="100%" height="480" frameborder="0" allowfullscreen></iframe>
+https://user-images.githubusercontent.com/76491823/217724784-5653b962-dc32-41c6-b8df-fdf2099e0b44.mp4  
 
 This project consists of two parts. Video walkthroughs follow in the next
 sections. After completing each part, watch the corresponding walkthrough before
